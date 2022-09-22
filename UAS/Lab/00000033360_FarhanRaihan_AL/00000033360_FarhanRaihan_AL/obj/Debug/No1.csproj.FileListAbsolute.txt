@@ -1,0 +1,10 @@
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\bin\Debug\00000033360_FarhanRaihan_AL.exe.config
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\bin\Debug\00000033360_FarhanRaihan_AL.exe
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\bin\Debug\00000033360_FarhanRaihan_AL.pdb
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\No1.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\_00000033360_FarhanRaihan_AL.Form1.resources
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\_00000033360_FarhanRaihan_AL.Properties.Resources.resources
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\No1.csproj.GenerateResource.cache
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\No1.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\00000033360_FarhanRaihan_AL.exe
+G:\New folder\S7\Visprog\UAS\Lab\00000033360_FarhanRaihan_AL\00000033360_FarhanRaihan_AL\obj\Debug\00000033360_FarhanRaihan_AL.pdb

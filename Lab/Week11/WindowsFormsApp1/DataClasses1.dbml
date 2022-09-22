@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Week11" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Week11;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="WindowsFormsApp1.Properties.Settings" SettingsPropertyName="Week11ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Pelanggan" Member="Pelanggans">
+    <Type Name="Pelanggan">
+      <Column Name="kode" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nama" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="alamat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="umur" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

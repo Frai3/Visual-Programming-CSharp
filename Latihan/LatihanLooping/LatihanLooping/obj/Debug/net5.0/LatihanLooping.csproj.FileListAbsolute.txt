@@ -1,0 +1,16 @@
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\LatihanLooping.exe
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\LatihanLooping.deps.json
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\LatihanLooping.runtimeconfig.json
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\LatihanLooping.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\LatihanLooping.dll
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\ref\LatihanLooping.dll
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\bin\Debug\net5.0\LatihanLooping.pdb
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.dll
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\ref\LatihanLooping.dll
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.pdb
+G:\New folder\S7\Visprog\Latihan\LatihanLooping\LatihanLooping\obj\Debug\net5.0\LatihanLooping.genruntimeconfig.cache

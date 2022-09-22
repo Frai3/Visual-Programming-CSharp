@@ -1,0 +1,36 @@
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\Week4.exe
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\Week4.deps.json
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\Week4.runtimeconfig.json
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\Week4.runtimeconfig.dev.json
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\Week4.dll
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\ref\Week4.dll
+C:\Users\Dwi\source\repos\Week4\Week4\bin\Debug\net5.0-windows\Week4.pdb
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.csproj.AssemblyReference.cache
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.Form1.resources
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.csproj.GenerateResource.cache
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.AssemblyInfoInputs.cache
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.AssemblyInfo.cs
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.csproj.CoreCompileInputs.cache
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.dll
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\ref\Week4.dll
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.pdb
+C:\Users\Dwi\source\repos\Week4\Week4\obj\Debug\net5.0-windows\Week4.genruntimeconfig.cache
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\Week4.exe
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\Week4.deps.json
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\Week4.runtimeconfig.json
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\Week4.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\Week4.dll
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\ref\Week4.dll
+G:\New folder\S7\Visprog\Lab\Week4\Week4\bin\Debug\net5.0-windows\Week4.pdb
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.Form1.resources
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.csproj.GenerateResource.cache
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.dll
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\ref\Week4.dll
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.pdb
+G:\New folder\S7\Visprog\Lab\Week4\Week4\obj\Debug\net5.0-windows\Week4.genruntimeconfig.cache

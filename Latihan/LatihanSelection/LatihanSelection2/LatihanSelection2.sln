@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanSelection2", "LatihanSelection2\LatihanSelection2.csproj", "{35E5CA84-881A-49E3-8A6E-7FFCA9E5FB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E5CA84-881A-49E3-8A6E-7FFCA9E5FB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E5CA84-881A-49E3-8A6E-7FFCA9E5FB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E5CA84-881A-49E3-8A6E-7FFCA9E5FB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E5CA84-881A-49E3-8A6E-7FFCA9E5FB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD7AB3E-685A-481A-9E1B-E8989D111C65}
+	EndGlobalSection
+EndGlobal

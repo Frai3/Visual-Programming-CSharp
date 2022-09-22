@@ -1,0 +1,16 @@
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\Test.exe
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\Test.deps.json
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\Test.dll
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\ref\Test.dll
+G:\New folder\S7\Visprog\Latihan\Test\Test\bin\Debug\net5.0\Test.pdb
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.dll
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\ref\Test.dll
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.pdb
+G:\New folder\S7\Visprog\Latihan\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

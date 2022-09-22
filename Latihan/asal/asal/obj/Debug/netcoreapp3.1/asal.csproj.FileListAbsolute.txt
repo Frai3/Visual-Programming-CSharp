@@ -1,0 +1,28 @@
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\bin\Debug\netcoreapp3.1\asal.exe
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\bin\Debug\netcoreapp3.1\asal.deps.json
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\bin\Debug\netcoreapp3.1\asal.runtimeconfig.json
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\bin\Debug\netcoreapp3.1\asal.runtimeconfig.dev.json
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\bin\Debug\netcoreapp3.1\asal.dll
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\bin\Debug\netcoreapp3.1\asal.pdb
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.csproj.AssemblyReference.cache
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.AssemblyInfoInputs.cache
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.AssemblyInfo.cs
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.csproj.CoreCompileInputs.cache
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.dll
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.pdb
+D:\KULIAH\S7\Visprog\Tugas\asal\asal\obj\Debug\netcoreapp3.1\asal.genruntimeconfig.cache
+G:\New folder\S7\Visprog\Latihan\asal\asal\bin\Debug\netcoreapp3.1\asal.exe
+G:\New folder\S7\Visprog\Latihan\asal\asal\bin\Debug\netcoreapp3.1\asal.deps.json
+G:\New folder\S7\Visprog\Latihan\asal\asal\bin\Debug\netcoreapp3.1\asal.runtimeconfig.json
+G:\New folder\S7\Visprog\Latihan\asal\asal\bin\Debug\netcoreapp3.1\asal.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Latihan\asal\asal\bin\Debug\netcoreapp3.1\asal.dll
+G:\New folder\S7\Visprog\Latihan\asal\asal\bin\Debug\netcoreapp3.1\asal.pdb
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.dll
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.pdb
+G:\New folder\S7\Visprog\Latihan\asal\asal\obj\Debug\netcoreapp3.1\asal.genruntimeconfig.cache

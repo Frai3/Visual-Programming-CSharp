@@ -1,0 +1,16 @@
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\LatihanSelection.exe
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\LatihanSelection.deps.json
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\LatihanSelection.runtimeconfig.json
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\LatihanSelection.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\LatihanSelection.dll
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\ref\LatihanSelection.dll
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\bin\Debug\net5.0\LatihanSelection.pdb
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.dll
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\ref\LatihanSelection.dll
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.pdb
+G:\New folder\S7\Visprog\Latihan\LatihanSelection\LatihanSelection\LatihanSelection\obj\Debug\net5.0\LatihanSelection.genruntimeconfig.cache

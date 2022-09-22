@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="dbMahasiswa" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=dbMahasiswa;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="_00000033360_FarhanRaihan_AL.Properties.Settings" SettingsPropertyName="dbMahasiswaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Enrollment" Member="Enrollments">
+    <Type Name="Enrollment">
+      <Column Name="id_enrollment" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="kode_matkul" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nim" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Association Name="Mahasiswa_Enrollment" Member="Mahasiswa" ThisKey="nim" OtherKey="nim" Type="Mahasiswa" IsForeignKey="true" />
+      <Association Name="Matakuliah_Enrollment" Member="Matakuliah" ThisKey="kode_matkul" OtherKey="kode_matkul" Type="Matakuliah" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Mahasiswa" Member="Mahasiswas">
+    <Type Name="Mahasiswa">
+      <Column Name="nim" Type="System.String" DbType="Char(11) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nama" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="angkatan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fakultas" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="prodi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Mahasiswa_Enrollment" Member="Enrollments" ThisKey="nim" OtherKey="nim" Type="Enrollment" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Matakuliah" Member="Matakuliahs">
+    <Type Name="Matakuliah">
+      <Column Name="kode_matkul" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nama_matkul" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Matakuliah_Enrollment" Member="Enrollments" ThisKey="kode_matkul" OtherKey="kode_matkul" Type="Enrollment" />
+    </Type>
+  </Table>
+</Database>

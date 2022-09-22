@@ -1,0 +1,16 @@
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ContohProtectedInheritance.exe
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ContohProtectedInheritance.deps.json
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ContohProtectedInheritance.runtimeconfig.json
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ContohProtectedInheritance.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ContohProtectedInheritance.dll
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ref\ContohProtectedInheritance.dll
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\bin\Debug\net5.0\ContohProtectedInheritance.pdb
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.dll
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ref\ContohProtectedInheritance.dll
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.pdb
+G:\New folder\S7\Visprog\Latihan\ContohProtectedInheritance\ContohProtectedInheritance\obj\Debug\net5.0\ContohProtectedInheritance.genruntimeconfig.cache

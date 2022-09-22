@@ -1,0 +1,16 @@
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\PassByValue.exe
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\PassByValue.deps.json
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\PassByValue.runtimeconfig.json
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\PassByValue.runtimeconfig.dev.json
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\PassByValue.dll
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\ref\PassByValue.dll
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\bin\Debug\net5.0\PassByValue.pdb
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.csproj.AssemblyReference.cache
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.AssemblyInfoInputs.cache
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.AssemblyInfo.cs
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.csproj.CoreCompileInputs.cache
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.dll
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\ref\PassByValue.dll
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.pdb
+G:\New folder\S7\Visprog\Latihan\PassByValue\PassByValue\obj\Debug\net5.0\PassByValue.genruntimeconfig.cache

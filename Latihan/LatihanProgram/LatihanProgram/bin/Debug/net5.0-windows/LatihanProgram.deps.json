@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LatihanProgram/1.0.0": {
+        "runtime": {
+          "LatihanProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LatihanProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
